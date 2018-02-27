@@ -9,3 +9,4 @@
 .classpath
 *.class
 target/*
+.springBeans
